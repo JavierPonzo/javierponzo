@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JavierPonzo
 - 👀 I’m interested in get a job in the industry
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on small and big projects
+- 💻 I’m currently learning in a LeWagon Bootcamp
 
 
 <!---
