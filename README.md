@@ -15,7 +15,6 @@ Open to collaborations, new ideas, and solving meaningful challenges.
 📩 Contact me via GitHub or connect with me on LinkedIn!
 
 
-
 <!---
 JavierPonzo/JavierPonzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
