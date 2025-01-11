@@ -12,6 +12,7 @@ Driven to build applications that make a difference.
 Open to collaborations, new ideas, and solving meaningful challenges.
 
 💬 Feel free to reach out! Let’s connect and create something amazing.
+
 📩 Contact me via GitHub or connect with me on LinkedIn!
 
 
