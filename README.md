@@ -1,23 +1,31 @@
-👋 Hello there! Welcome to my GitHub profile!
-I am passionate about web development, programming, and creating impactful projects that solve real-world problems. As a recent graduate of the Le Wagon Web Development Bootcamp, I thrive on building modern, responsive, and user-friendly applications, always eager to continuously grow my skills.
+# Javier Ponzo
 
-🚀 What I Do:
-Full-stack web development with Ruby on Rails, JavaScript, HTML, CSS, and PostgreSQL.
-Experienced with Git/GitHub, Heroku, and API integrations.
-Focused on creating intuitive, modern, and scalable web solutions.
+**Co-Founder & Tech Lead** at [Marsstein.ai](https://marsstein.ai) — building AI-powered compliance automation for EU data sovereignty.
 
-🌟 What Excites Me:
-Always eager to learn and improve my craft.
-Driven to build applications that make a difference.
-Open to collaborations, new ideas, and solving meaningful challenges.
+## What I'm building
 
-💬 Feel free to reach out! Let’s connect and create something amazing.
+Marsstein is a compliance platform that uses multi-agent AI systems to automate GDPR/DSGVO workflows for European companies. Full-stack architecture spanning orchestrated AI agents, real-time document generation, and infrastructure designed for EU data residency.
 
-📩 Contact me via GitHub or connect with me on LinkedIn!
+## Stack
 
+```
+AI/ML        Python · Pydantic AI · Gemini · Vertex AI · Qdrant · Presidio
+Backend      FastAPI · PostgreSQL · NATS · S3 · SuperTokens
+Frontend     Next.js 15 · React 19 · TypeScript · Tailwind
+Infra        GCE · Docker · k3s · Artifact Registry · SeaweedFS
+```
 
+## Previously
 
-<!---
-JavierPonzo/JavierPonzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Arose AI** — AI-powered recruitment platform
+- **WeldDocs** — Document automation SaaS
+- **SkyPulse Robotics** — UAV systems & computer vision
+- **Elevate** — Ride-sharing mobile app (React Native)
+
+## Research interests
+
+Multi-agent orchestration · EU AI Act compliance · privacy-preserving AI · vector search isolation
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/javierponzo)
